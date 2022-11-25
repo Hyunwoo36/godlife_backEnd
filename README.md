@@ -1,2 +1,2 @@
 # godlife_backEnd
-let's get it.
+동규,민상,현우 django project
